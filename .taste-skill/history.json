@@ -1,0 +1,20 @@
+{
+  "palettes": [
+    "blush-sage-slate"
+  ],
+  "types": [
+    "rethink"
+  ],
+  "dealt": [
+    "rethink",
+    "hanken",
+    "albert"
+  ],
+  "moments": [
+    {
+      "id": "word-highlight",
+      "at": "2026-11-24T01:06:16.419Z",
+      "seed": "72ff101f"
+    }
+  ]
+}

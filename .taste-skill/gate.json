@@ -1,0 +1,72 @@
+{
+ "start": "2026-11-24T01:06:16.129Z",
+ "round": 2,
+ "idle": 0,
+ "errors": 1,
+ "status": "error",
+ "history": [
+  {
+   "at": "2026-11-24T01:12:14.594Z",
+   "mode": "manual",
+   "status": "fail",
+   "fails": 31,
+   "round": 1,
+   "reused": false,
+   "stopHookActive": false
+  },
+  {
+   "at": "2026-11-24T01:16:18.189Z",
+   "mode": "manual",
+   "status": "fail",
+   "fails": 104,
+   "round": 2,
+   "reused": false,
+   "stopHookActive": false
+  },
+  {
+   "at": "2026-11-24T01:27:39.102Z",
+   "mode": "manual",
+   "status": "error",
+   "fails": 0,
+   "round": 2,
+   "reused": false,
+   "stopHookActive": false
+  }
+ ],
+ "max": 3,
+ "marker": {
+  "page": null,
+  "dir": "C:\\Users\\Muhammad Adistia P\\Documents\\Website\\lsp-frontend",
+  "kind": "service",
+  "start": "2026-11-24T01:06:16.129Z",
+  "by": "start.mjs",
+  "url": "http://127.0.0.1:5173/",
+  "category": "sertifikasi profesi fotografi",
+  "primary": "Pilih Skema"
+ },
+ "manual": true,
+ "roundKey": "ebe6a1a7469e6fb0:da39a3ee",
+ "roundFree": false,
+ "idleFree": false,
+ "blockKey": null,
+ "fp": "6c593ee48891fa0d",
+ "page": "http://127.0.0.1:5173/",
+ "found": {
+  "fails": [],
+  "warns": [],
+  "crashed": [
+   "the copy (the page showed no <main>, <section> or <h1> to lint)",
+   "consistency.mjs could not walk 1440, 390",
+   "check.mjs could not run (exit 2: check: timed out)"
+  ],
+  "seconds": {
+   "consistency": 4,
+   "layout": 240
+  }
+ },
+ "open": [],
+ "waived": [],
+ "warnCount": 0,
+ "at": "2026-11-24T01:27:39.103Z",
+ "note": "the copy (the page showed no <main>, <section> or <h1> to lint); consistency.mjs could not walk 1440, 390; check.mjs could not run (exit 2: check: timed out)"
+}
